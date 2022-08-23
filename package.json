@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --bail --findRelatedTests",
+    "test": "jest --bail --watch",
     "test:staged": "jest --bail --findRelatedTests"
   },
   "keywords": [],
